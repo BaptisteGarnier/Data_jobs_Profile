@@ -1,8 +1,0 @@
-,Q,Theme_de_la_question,Raisonnement
-0,"Q1, Q2, Q3, Q4","Age, Gender, Country, Education Level","Dans un souci d'éthique, cette variable ne peut-être un élément différenciant pour une suggestion de poste"
-1,Q8,Code writing experience,Il s'agit d'une recommandation donc point de vue subjectif et non d'une compétence liée à un poste précis
-2,"Q11, Q12, Q13","Computing platform, Hardware, TPU used",Il s'agit d'une habitude donc point de vue subjectif et non d'une compétence liée à un poste précis
-3,"Q18, Q19, Q27A, Q28A, Q30, Q32, Q34A, Q26B à Q35B","Computer vision, NLP, Cloud computing, ML products, Big Data, BI, Automated ML tools and B questions",Question dépendant d'une réponse précédente et n'ayant pas été posée à tout le panel
-4,"Q20, Q21, Q22, Q24, Q25","Company size, Data staff, ML implemented, Salary, ML budget",Question liée à l'entreprise et non au poste du répondant
-5,"Q36, Q37, Q39","Sharing channels, Training platform, Favorite media sources",Il ne s'agit pas d'une compétence technique ou d'un outil lié au poste
-6,Q38,Primary tools,Il s'agit d'une réponse par texte libre
